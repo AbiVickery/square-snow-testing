@@ -1,7 +1,7 @@
 .cursor {
     width: 20px;
     height: 20px;
-    border: 1px solid purple;
+    border: 1px solid red;
     border-radius: 50%;
     position: absolute;
     transition-duration: 200ms;
@@ -14,7 +14,7 @@ cursor::after {
     width: 20px;
     height: 20px;
     position: absolute;
-    border: 4px solid pink;
+    border: 4px solid blueviolet;
     border-radius: 50%;
     opacity: .5;
     top: -8px;
