@@ -7,7 +7,11 @@ body {
 }
 
 h1 {
-    font: white;
+    /* color: white; */
+    background: rgb(216,216,254);
+    background: linear-gradient(180deg, rgba(216,216,254,1) 0%, rgba(49,52,112,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .snow {
