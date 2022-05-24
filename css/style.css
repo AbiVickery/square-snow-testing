@@ -50,7 +50,7 @@ h1 {
     
     } */
 
-    /* .animation-area {
+    .animation-area {
         width: 100%;
         height: 100vh;
     }
@@ -127,4 +127,4 @@ h1 {
         100% {
             transform: translateY(-800px) rotate(360deg);
         }
-    } */
+    }
